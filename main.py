@@ -12,7 +12,7 @@ from tools import message_logger
 
 api = leaderboards_api()
 
-BotToken = "YOUR_AUDICA_LEADERBOARDS_API_KEY"
+BotToken = "YOUR_DISCORD_BOT_TOKEN"
 
 def audica_leaderboards_update_loop():
     try:
